@@ -26,4 +26,19 @@ i) `날씨` 데이터, ii) `구매 이력` 데이터, iii) `소셜` 데이터를
 		- 백령도, 강화, 관악산 : 대표성 없다고 판단, 제외
 		- 대구(기) : 지점 상세보기 정보 누락, 제외
 	- `대기 환경 정보 데이터`의 경우, 날씨 데이터에 병합하여 사용
+
+---
+### 활용 모델
+- Machine learning
+	- Regression
+		- Linear
+		- Ridge
+		- Lasso
+	- Boosting
+		- LGBM
+		- XgBoost
+		- CatBoost
+- Deep Learning
+	- DNN
+	- LSTM
 	
